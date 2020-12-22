@@ -16,17 +16,23 @@ Website:  [MSGuy01.com](https://msguy01.com)
 
 ### What I'm Working On
 -JavaScript AI TicTacToe
+<br>
 -JavaScript Tetris
+<br>
 -Online Yahtzee
+<br>
 -Cube Runner game with Unity
+<br>
 -Various Java projects
 
 ### What I'm Learning
 -C
+<br>
 -C++
 
 ### Social Links
 YouTube: [MSGuy01](https://youtube.com/MSGuy01) 
+<br>
 Twitter: [MSGuy01](https://twitter/MSGuy01) 
 
 ![MSGuy01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msguy01)
