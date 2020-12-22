@@ -36,4 +36,5 @@ YouTube: [MSGuy01](https://youtube.com/MSGuy01)
 Twitter: [MSGuy01](https://twitter/MSGuy01) 
 
 ![MSGuy01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msguy01)
+[![MSGuy01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msguy01)](https://github.com/msguy01/github-readme-stats)
 
