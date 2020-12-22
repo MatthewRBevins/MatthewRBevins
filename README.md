@@ -5,7 +5,7 @@
 ### Website:  [MSGuy01.com](https://msguy01.com) 
 
 ### My Favorite Past Projects
--Rickroll Extension: [Repository](https://github.com/MSGuy01/Rickroll-Extension) [Extension Download](https://chrome.google.com/webstore/detail/rickroll-extension/ljkcmgibdnmdjdfpbggohpophnkiajfm/related)
+-Rickroll Extension: [Repository](https://github.com/MSGuy01/Rickroll-Extension) [Extension Download](https://chrome.google.com/webstore/detail/rickroll-extension/ljkcmgibdnmdjdfpbggohpophnkiajfm)
 <br>
 -Java Yahtzee 2: [Repository](https://github.com/MSGuy01/Java-Yahtzee-Two)
 <br>
