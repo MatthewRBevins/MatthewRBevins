@@ -1,8 +1,8 @@
 <img src="https://msguy01.com/images/logo.png"/>
 
-### Hi, I'm MSGuy01. I'm a young programmer who codes for fun, and enjoys learning more about computers and programming. I hope to have a job involving software development in the future.
+# Hi, I'm MSGuy01. I'm a young programmer who codes for fun, and enjoys learning more about computers and programming. I hope to have a job involving software development in the future.
 
-Website:  [MSGuy01.com](https://msguy01.com) 
+### Website:  [MSGuy01.com](https://msguy01.com) 
 
 ### My Favorite Past Projects
 -Rickroll Extension: [Repository](https://github.com/MSGuy01/Rickroll-Extension) [Extension Download](https://chrome.google.com/webstore/detail/rickroll-extension/ljkcmgibdnmdjdfpbggohpophnkiajfm/related)
