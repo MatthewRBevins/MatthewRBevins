@@ -25,9 +25,20 @@
 <br>
 -Various Java projects
 
-### What I'm Learning
+### Languages I Know
+-Java
+<br>
 -C
 <br>
+-HTML/CSS
+<br>
+-PHP/SQL
+<br>
+-JavaScript
+<br>
+-Python
+
+### Languages I'm Learning
 -C++
 
 ### Social Links
