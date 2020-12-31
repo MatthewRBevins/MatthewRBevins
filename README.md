@@ -39,6 +39,8 @@
 -Python
 
 ### Languages I'm Learning
+-Rust
+<br>
 -C++
 
 ### Social Links
