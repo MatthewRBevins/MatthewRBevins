@@ -15,15 +15,13 @@
 <br>
 
 ### What I'm Working On
--JavaScript AI TicTacToe
+-AI TicTacToe (JavaScript)
 <br>
--JavaScript Tetris
+-Tetris (JavaScript)
 <br>
--Online Yahtzee
+-Online Yahtzee (JavaScript)
 <br>
--Cube Runner game with Unity
-<br>
--Various Java projects
+-Mastermind Solver (Java)
 
 ### Languages I Know
 -Java
@@ -40,6 +38,8 @@
 
 ### Languages I'm Learning
 -Rust
+<br>
+-Go
 <br>
 -C++
 
