@@ -1,6 +1,6 @@
 <img src="https://msguy01.com/images/logo.png"/>
 
-### Hi, I'm MSGuy01. I'm a young programmer who codes for fun, and enjoys learning more about computers and programming. I hope to have a job involving software development in the future.
+### Hi, I'm MSGuy01. I'm a young programmer who codes for fun, and I enjoy learning more about computers and programming. I hope to have a job involving software development in the future.
 
 ### Website:  [MSGuy01.com](https://msguy01.com) 
 
@@ -26,17 +26,19 @@
 -Mastermind Solver (Java)
 
 ### Languages I Know
--Java
+-Java (know well)
 <br>
--C
+-HTML/CSS (know well)
 <br>
--HTML/CSS
+-PHP/SQL (know well)
 <br>
--PHP/SQL
+-JavaScript (know well)
 <br>
--JavaScript
+-Python (know fairly well)
 <br>
--Python
+-C (know some)
+<br>
+-C# (know some)
 
 ### Languages I'm Learning
 -Rust
