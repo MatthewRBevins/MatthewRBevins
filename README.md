@@ -1,30 +1,31 @@
 <img src="https://msguy01.com/images/logo.png"/>
 
-### Hi, I'm MSGuy01. I'm a young programmer who codes for fun, and I enjoy learning more about computers and programming. I hope to have a job involving software development in the future.
+### Hi, I'm MSGuy01. I'm a young programmer who codes for fun, and I enjoy learning more about computers and programming. I hope to have a job involving software development in the future. I enjoy web development, game development, and making desktop apps. See my repositories for some examples of what I do, but I'm working on a lot more that haven't come out yet!
 
 ### Website:  [MSGuy01.com](https://msguy01.com) 
 
-### Languages I Know
--Java (know well)
+### Languages I Know (in order of experience)
+-Java
 <br>
--HTML/CSS (know well)
+-JavaScript
 <br>
--PHP/SQL (know well)
+-Python
 <br>
--JavaScript (know well)
+-PHP
 <br>
--Python (know fairly well)
+-Batch
 <br>
--C (know some)
+-C
 <br>
--C# (know some)
-
-### Languages I'm Learning
+-C#
+<br>
+-C++
+<br>
+-SQL
+<br>
 -Rust
 <br>
 -Go
-<br>
--C++
 <br>
 -Assembly
 
