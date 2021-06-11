@@ -4,27 +4,6 @@
 
 ### Website:  [MSGuy01.com](https://msguy01.com) 
 
-### My Favorite Completed/Current Projects
--Rickroll Extension: [Repository](https://github.com/MSGuy01/Rickroll-Extension) [Extension Download](https://chrome.google.com/webstore/detail/rickroll-extension/ljkcmgibdnmdjdfpbggohpophnkiajfm)
-<br>
--Java Yahtzee 2: [Repository](https://github.com/MSGuy01/Java-Yahtzee-Two)
-<br>
--Arduino Calculator: [Repository](https://github.com/MSGuy01/Arduino-Calculator)
-<br>
--Java Data Calculator: [Repository](https://github.com/MSGuy01/Data-Calculator) 
-<br>
-
-### What I'm Working On
--YouTube Investor Discord Bot (JavaScript)
-<br>
--AI TicTacToe (JavaScript)
-<br>
--Tetris (JavaScript)
-<br>
--Online Yahtzee (JavaScript)
-<br>
--Mastermind Solver (Java)
-
 ### Languages I Know
 -Java (know well)
 <br>
@@ -46,6 +25,8 @@
 -Go
 <br>
 -C++
+<br>
+-Assembly
 
 ### Social Links
 YouTube: [MSGuy01](https://youtube.com/MSGuy01) 
