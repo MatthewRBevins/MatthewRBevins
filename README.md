@@ -1,6 +1,6 @@
 <img src="https://msguy01.com/images/logo.png"/>
 
-### Hi, I'm MSGuy01. I'm a young programmer who codes for fun, and I enjoy learning more about computers and programming. I hope to have a job involving software development in the future. I like web development, game development, and making desktop apps. See my repositories for some of my finished projects, but I have a ton of in-progress projects that I haven't made public yet!
+### Hi, I'm MSGuy01. I'm a young programmer who codes for fun, and I enjoy learning more about computers and programming. My favorite languages are JavaScript, Java, and Python. See my repositories for some of my finished projects, but most of my projects are unfinished and aren't public yet!
 
 ### Website:  [MSGuy01.com](https://msguy01.com) 
 
