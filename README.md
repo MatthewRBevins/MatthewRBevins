@@ -7,6 +7,3 @@ Fiverr: [matthewbevins](https://www.fiverr.com/matthewbevins)
 Twitter: [MatthewRBevins](https://twitter/MatthewRBevins)
 
 ![MSGuy01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=matthewrbevins)
-<br>
-[![MSGuy01's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewrbevins)](https://github.com/matthewrbevins/github-readme-stats)
-
