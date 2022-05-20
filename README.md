@@ -1,33 +1,12 @@
 <img src="https://msguy01.com/images/logo.png"/>
 
-### Hi, I'm MSGuy01. I'm a young programmer who codes for fun, and I enjoy learning more about computers and programming. My favorite languages are JavaScript, Java, and Python. See my repositories for some of my finished projects, but most of my projects are unfinished and aren't public yet!
+### Hi, I'm Matthew. I'm a high school student who loves programming. I am interested in full stack web development (especially in JavaScript and Node.js), game development (in Unity and JS), and app development (in Java and Python).
 
-### Website:  [MSGuy01.com](https://msguy01.com) 
-
-### Languages I Know (in order of experience)
--Java
-<br>
--JavaScript
-<br>
--Python
-<br>
--PHP
-<br>
--C
-<br>
--C#
-<br>
--SQL
-<br>
--C++
-<br>
--Rust
-<br>
+### Website (in progress):  [MatthewRBevins.com](http://matthewrbevins.com) 
 
 ### Social Links
-YouTube: [MSGuy01](https://youtube.com/MSGuy01) 
-<br>
-Twitter: [MSGuy01](https://twitter/MSGuy01) 
+Fiverr: [matthewbevins](https://www.fiverr.com/matthewbevins)
+Twitter: [MatthewRBevins](https://twitter/MatthewRBevins)
 
 ![MSGuy01's GitHub Stats](https://github-readme-stats.vercel.app/api?username=msguy01)
 <br>
